@@ -1,0 +1,1 @@
+{"version":3,"file":"constants-Bz9XXnp8.js","sources":["../../../.svelte-kit/adapter-node/chunks/constants.js"],"sourcesContent":["const NO_TRANSLATE_ATTRIBUTE = \"data-no-translate\";\nconst LANG_COOKIE_NAME = \"paraglide_lang\";\nexport {\n  LANG_COOKIE_NAME as L,\n  NO_TRANSLATE_ATTRIBUTE as N\n};\n"],"names":[],"mappings":"AAAK,MAAC,sBAAsB,GAAG;AAC1B,MAAC,gBAAgB,GAAG;;;;"}

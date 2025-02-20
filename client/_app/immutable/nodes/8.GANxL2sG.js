@@ -1,0 +1,1 @@
+import"../chunks/Bg9kRutz.js";import{p as s,u,a as p,b as i,g as e,e as m}from"../chunks/B7967vnE.js";import{p as f}from"../chunks/CWYn12-B.js";import{S as g}from"../chunks/Cdhnmevf.js";function d(r,a){s(a,!0);let t=m(!0);u(()=>{e(t)||history.back()}),g(r,{get data(){return a.data.form},get value(){return e(t)},set value(o){i(t,f(o))}}),p()}export{d as component};
